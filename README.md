@@ -9,3 +9,7 @@ Requirements
 
 * Geektools
 * Python 2.6+
+ 
+Screenshot
+------
+![](https://raw.githubusercontent.com/dmlittle/worldcup-geektools/master/screenshot.png)

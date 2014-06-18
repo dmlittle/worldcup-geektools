@@ -8,7 +8,8 @@ Requirements
 ------
 
 * Geektools
-* Python 2.6+
+* Python
+* PrettyTable (python library)
  
 Screenshot
 ------
